@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teldrassil", "Teldrassil\Teldrassil.csproj", "{3F2AA36D-8465-4520-811C-E8FB77D14919}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{EAC58AE6-EABD-4579-826E-093C07C0CAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F2AA36D-8465-4520-811C-E8FB77D14919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2AA36D-8465-4520-811C-E8FB77D14919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2AA36D-8465-4520-811C-E8FB77D14919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2AA36D-8465-4520-811C-E8FB77D14919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC58AE6-EABD-4579-826E-093C07C0CAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC58AE6-EABD-4579-826E-093C07C0CAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC58AE6-EABD-4579-826E-093C07C0CAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC58AE6-EABD-4579-826E-093C07C0CAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A6623B-3D2A-4BB1-8998-7E0CD9E38C2C}
+	EndGlobalSection
+EndGlobal
